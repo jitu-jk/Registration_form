@@ -1,1 +1,1 @@
-<h1>Registration form</h1>
+
